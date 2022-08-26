@@ -1,0 +1,38 @@
+.filters label, .tri label {
+    font-size: 20px;
+    margin-right: 20px;
+}
+
+.filters select, .tri select {
+    width: 100px;
+    height: 20px;
+    margin-right: 10px;
+}
+
+.filters input {
+    width: 100px;
+    height: 16px;
+    font-size: 16px;
+    margin-right: 10px;
+}
+
+.addCard label {
+    font-size: 20px;
+    margin-right: 20px;
+}
+
+.addCard input {
+    width: 200px;
+    height: 20px;
+}
+
+.addCard ul {
+    list-style-type: none;
+    text-align: right;
+}
+
+.addCard button {
+    width: 200px;
+    height: 30px;
+    cursor: pointer;
+}

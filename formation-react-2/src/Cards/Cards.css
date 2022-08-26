@@ -1,0 +1,33 @@
+.card {
+    list-style-type: none;
+    text-align: left;
+    font-size: 20px;
+    border: 1px solid white;
+    border-radius: 1rem;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin: 10px;
+}
+ 
+.addCard label {
+    font-size: 20px;
+    margin-right: 20px;
+}
+ 
+.addCard input {
+    width: 200px;
+    height: 20px;
+}
+ 
+.addCard ul {
+    list-style-type: none;
+    text-align: right;
+}
+ 
+.addCard button {
+    width: 200px;
+    height: 30px;
+    cursor: pointer;
+}
