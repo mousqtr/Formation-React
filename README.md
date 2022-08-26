@@ -5,6 +5,8 @@
 
 Ouvrir un terminal et se rendre dans le dossier où se trouve le package.json
 
-### `npm start`
+Taper la commande :  
+    
+        npm start
 
-Accéder à [http://localhost:3000] via un navigateur
+Accéder à http://localhost:3000 via un navigateur
