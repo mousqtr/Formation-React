@@ -1,6 +1,6 @@
 import React from 'react';
-import Cards from './Cards/Cards';
-import { EqptContext } from './contexts';
+import Users from './Users/Users';
+import { TitleContext } from './contexts';
 import './App.css';
 
 
@@ -8,9 +8,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <EqptContext.Provider value={'OLT Ptin'}>
-          <Cards />
-        </EqptContext.Provider>
+        <TitleContext.Provider value="Gestionnaire de joueurs">
+          <Users />
+        </TitleContext.Provider>
       </header>
     </div>
   );

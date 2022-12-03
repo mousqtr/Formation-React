@@ -1,4 +1,4 @@
-.card {
+.users {
     list-style-type: none;
     text-align: left;
     font-size: 20px;
@@ -11,22 +11,22 @@
     margin: 10px;
 }
  
-.addCard label {
+.addUser label {
     font-size: 20px;
     margin-right: 20px;
 }
  
-.addCard input {
+.addUser input {
     width: 200px;
     height: 20px;
 }
  
-.addCard ul {
+.addUser ul {
     list-style-type: none;
     text-align: right;
 }
  
-.addCard button {
+.addUser button {
     width: 200px;
     height: 30px;
     cursor: pointer;

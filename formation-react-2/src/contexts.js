@@ -1,3 +1,3 @@
 import React from 'react';
 
-export const EqptContext = React.createContext('');
+export const TitleContext = React.createContext('');
